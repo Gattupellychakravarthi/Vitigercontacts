@@ -1,0 +1,5 @@
+2021-12-30 15:32:06,991  INFO [main] LoginTestMethod:19 - connect to database
+2021-12-30 15:32:07,039  INFO [main] LoginTestMethod:25 - Opening the Browser
+2021-12-30 15:32:15,559  INFO [main] LoginTestMethod:32 - Login
+2021-12-30 15:32:24,858  INFO [main] LoginTestMethod:42 - Close the Browser
+2021-12-30 15:32:29,343  INFO [main] LoginTestMethod:49 - Disconnect to Database
