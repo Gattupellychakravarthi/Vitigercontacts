@@ -3,17 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.login.TC001_CreateQuoteTest">
+      <class name="com.login.ExtendRepots">
         <methods>
-          <include name="CloseBrowser"/>
-          <include name="LogoutApp"/>
-          <include name="BrowserLunchandGetUrl"/>
-          <include name="setUp"/>
-          <include name="creatQuote"/>
-          <include name="LoginintoApp"/>
-          <include name="disconnectfromDB"/>
+          <include name="skipit"/>
+          <include name="getTitlefrommvn"/>
         </methods>
-      </class> <!-- com.login.TC001_CreateQuoteTest -->
+      </class> <!-- com.login.ExtendRepots -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
